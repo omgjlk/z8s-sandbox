@@ -1,5 +1,5 @@
 - project:
-    name: z8s-sandbox
+    name: j2sol/z8s-sandbox
     check:
       jobs:
         - noop
