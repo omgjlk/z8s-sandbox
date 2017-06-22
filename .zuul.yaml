@@ -4,3 +4,4 @@
       jobs:
         - noop
         - python35
+        - missing
